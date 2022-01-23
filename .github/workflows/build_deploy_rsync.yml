@@ -52,9 +52,7 @@ jobs:
         LOCAL_DIR: "_build/html/"
       run: |
         mkdir ~/.ssh
-        touch ~/.ssh/id_rsa
         echo "$REMOTE_KEY" > ~/.ssh/id_rsa
         ssh-keyscan -H $REMOTE_HOST >> ~/.ssh/known_hosts
         chmod 600 ~/.ssh/id_rsa
         rsync -avzr --delete $LOCAL_DIR $REMOTE_USER@$REMOTE_HOST:firas.moosvi.com/interviews/math102_talk
-        
