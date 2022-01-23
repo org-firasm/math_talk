@@ -1,5 +1,5 @@
 # Book settings
-title: CSC 112
+title: Math 101
 author: Firas Moosvi
 logo: images/logo.jpg
 copyright: ""
@@ -11,7 +11,7 @@ latex:
 html:
   navbar_number_sections : false
   home_page_in_navbar : true
-  baseurl : "https://firas.moosvi.com/interviews/uvic_cs/"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
+  baseurl : "https://firas.moosvi.com/interviews/math101_talk"  # The base URL where your book will be hosted. Used for creating image previews and social links. e.g.: https://mypage.com/mybook/
   comments:
     hypothesis: false
   extra_footer : |

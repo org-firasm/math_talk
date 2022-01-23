@@ -7,10 +7,12 @@ parts:
     title: Week 3
     sections:
     - file: class/week03/videos
+    - file: class/week03/Week3A
+      title: Mon - Substitution
     - file: class/week03/Week3B
-      title: Area between Curves
+      title: Wed - Area between Curves
     - file: class/week03/Week3C
-      title: Volumes
+      title: Fri - Volumes
 - caption: Course Feedback
   chapters:
   - file: about/feedback
