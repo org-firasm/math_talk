@@ -3,7 +3,7 @@
 # Course Syllabus
 
 This page will usually have a detailed syllabus.
-An example of a [relevant syllabus can be found here](https://firas.moosvi.com/courses/2020_WT2/cosc111/about/syllabus.html).
+An example of a [relevant syllabus can be found here](https://firas.moosvi.com/courses/2021_WT2/cosc123).
 
 ## Math 101 (3) Integral Calculus with Applications to Physical Sciences and Engineering
 

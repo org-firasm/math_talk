@@ -6,11 +6,13 @@ parts:
   - file: class/week03/week03_summary
     title: Week 3
     sections:
-    - file: class/week03/videos
     - file: class/week03/Week3A
       title: Mon - Substitution
     - file: class/week03/Week3B
       title: Wed - Area between Curves
+      sections:
+        - file: class/week03/videos
+          title: Supplementary Videos
     - file: class/week03/Week3C
       title: Fri - Volumes
 - caption: Course Feedback
