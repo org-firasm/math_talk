@@ -35,3 +35,11 @@ Source: https: //www.w3schools.com/howto/howto_css_responsive_iframes.asp
     top: 200px;
     width: 300px;
 }
+
+/* Center images */
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
