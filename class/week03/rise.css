@@ -31,6 +31,19 @@ div.inner_cell>div.text_cell_render.rendered_html>pre>code {
     font-size: 70%;
 }
 
+/* Turn off scrollbars in code outputs */
+
+div.output_subarea {
+    overflow:hidden;
+}
+
+/* Output of code cells */
+
+div.output_subarea.output_latex.output_result {
+    font-size: 200%;
+    color: black;
+}
+
 /* ---------- tables (from SO)
  */
 .rendered_html table, .rendered_html th, .rendered_html tr, .rendered_html td {
