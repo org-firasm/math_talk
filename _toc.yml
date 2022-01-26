@@ -6,10 +6,10 @@ parts:
   - file: class/week03/week03_summary
     title: Week 3
     sections:
-    - file: class/week03/Week3A
-      title: Mon - Substitution
-    - file: class/week03/Week3B
-      title: Wed - Area between Curves
+    - file: class/week03/Week3B_pre
+      title: Area between Curves (worksheet)
+    - file: class/week03/Week3B_post
+      title: Wed - Area between Curves (answers)
       sections:
         - file: class/week03/videos
           title: Supplementary Videos
