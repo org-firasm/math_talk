@@ -8,11 +8,8 @@ parts:
     sections:
     - file: class/week03/Week3B_pre
       title: Area between Curves (worksheet)
-    # - file: class/week03/Week3B_post
-    #   title: Wed - Area between Curves (answers)
-      sections:
-        - file: class/week03/videos
-          title: Supplementary Videos
+    - file: class/week03/Week3B_post
+      title: Wed - Area between Curves (answers)
     - file: class/week03/Week3C
       title: Fri - Volumes
 - caption: Course Feedback
