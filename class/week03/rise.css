@@ -42,16 +42,32 @@ div.inner_cell>div.text_cell_render.rendered_html>pre>code {
  /* Narrow the prompts */
 div.prompt_container {
     min-width: 5ex;
+    display:  none;
 }
 /* Hide prompts altogether for non-code cells */
 .cell:not(.code_cell) .prompt {
     display: none;
 }
+
+div.out_prompt_overlay.prompt {
+    display:  none;
+}
+
+div.prompt.output_prompt{
+    display:  none;
+}
+
+
+
+
 /* ---------- Width of cells
  */
 .container {
     width:95% !important;
 }
+
+
+
 
 
 /* ---------- Vertical Whitespace
